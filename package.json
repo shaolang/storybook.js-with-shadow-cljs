@@ -8,6 +8,7 @@
     "dev": "shadow-cljs watch frontend"
   },
   "devDependencies": {
+    "@storybook/react": "^6.1.17",
     "shadow-cljs": "^2.11.18"
   },
   "dependencies": {
