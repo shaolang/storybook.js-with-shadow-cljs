@@ -1,8 +1,6 @@
 (ns acme.core
-  (:require [reagent.dom :refer [render]]))
-
-(defn header [text]
-  [:h1 text])
+  (:require [acme.components.header :refer [header]]
+            [reagent.dom :refer [render]]))
 
 (defn init []
   (render [header "Hello, World!"]
