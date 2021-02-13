@@ -4,6 +4,9 @@
   "description": "Demo on integrating Storybook.JS with ClojureScript via Shadow-CLJS",
   "author": "Shaolang Ai",
   "license": "MIT",
+  "scripts": {
+    "dev": "shadow-cljs watch frontend"
+  },
   "devDependencies": {
     "shadow-cljs": "^2.11.18"
   }
