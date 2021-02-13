@@ -1,0 +1,7 @@
+{
+  "name": "storybook-shadow-cljs",
+  "version": "0.0.1",
+  "description": "Demo on integrating Storybook.JS with ClojureScript via Shadow-CLJS",
+  "author": "Shaolang Ai",
+  "license": "MIT"
+}
