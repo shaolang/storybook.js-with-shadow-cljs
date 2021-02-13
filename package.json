@@ -5,7 +5,9 @@
   "author": "Shaolang Ai",
   "license": "MIT",
   "scripts": {
-    "dev": "shadow-cljs watch frontend"
+    "dev": "shadow-cljs watch frontend",
+    "dev-stories": "shadow-cljs watch stories",
+    "storybook": "start-storybook"
   },
   "devDependencies": {
     "@storybook/react": "^6.1.17",
