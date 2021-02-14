@@ -8,3 +8,6 @@
 
 (defn ^:export HelloWorldHeader []
   (r/as-element [header "Hello, World!"]))
+
+(defn ^:export GoodbyeSekaiHeader []
+  (r/as-element [header "Goodbye, Sekai!"]))
